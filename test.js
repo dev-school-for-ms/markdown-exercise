@@ -8,3 +8,7 @@ console.log("hello world");
 function helloWorld() {
     console.log(hello);
 }
+
+function bye() {
+    console.log("say");
+}
