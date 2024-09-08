@@ -12,3 +12,7 @@ function helloWorld() {
 function bye() {
     console.log("say");
 }
+
+function hello() {
+    console.log("안녕하세요! 첫 수업입니다!!");
+}
